@@ -1,3 +1,4 @@
 build/
-*.txt
+test_a.txt
+test_b.txt
 
